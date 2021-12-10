@@ -1,2 +1,2 @@
-# rasberry_pi_basic
+# raspberry_pi_basic
 easy pi scripts
